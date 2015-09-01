@@ -3,7 +3,7 @@ Universidad del Valle de Guatemala
 
 
 Cristhian Chilel - 12417
-Cristian del Carmen - 12
+Cristian del Carmen - 12961
 
 Main.java
 Principal donde se manda a llamar el patron de diseño factory

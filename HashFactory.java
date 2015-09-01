@@ -2,7 +2,7 @@
 Universidad del Valle de Guatemala
 
 Cristhian Chilel - 12417
-Cristian del Carmen - 12
+Cristian del Carmen - 12961
 
 HashFactory.java
 Contiene el patron de diseño Factory en base a HashSet
